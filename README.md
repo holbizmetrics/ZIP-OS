@@ -63,3 +63,4 @@ EXECUTE: Z! I:AI_adoption↦founders/strategy L:850 T:60/40,50/50,70/30 M:q3,viz
 | **PROOF** | `on                              | off`                | Metrics block                          | `PROOF:on` |            |                |
 
 ---
+v0.5
