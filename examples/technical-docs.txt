@@ -1,0 +1,22 @@
+# Technical Documentation
+# Audience: Developers, technical users
+# Platform: Best on Claude (precision and accuracy)
+# Use Case: API docs, technical guides, implementation instructions
+
+Z! I:API_integration↦developers/explain L:1200 A:CRIA P:PAS T:80/20,70/30,75/25 M:q2,viz,c0.2 H:data V:diagram:API-Flow PROOF:on
+
+# What this generates:
+# - 1200-word technical documentation
+# - Data/factual hook
+# - Very authoritative (80% authority)
+# - Very data-heavy (70% data)
+# - Very action-oriented (75% action - clear instructions)
+# - 2 pull quotes (key takeaways)
+# - API flow diagram
+# - Minimal controversy (0.2 - factual only)
+
+# Customize:
+# - Increase T:Auth for more formal docs
+# - Increase T:Data for spec-heavy content
+# - Use V:flowchart for process documentation
+# - Use V:table for comparison docs

@@ -1,0 +1,20 @@
+# Twitter Thread (Casual & Engaging)
+# Audience: Creators, tech enthusiasts
+# Platform: Works on all platforms
+# Use Case: Social media threads, casual insights
+
+Z! I:AI_tools↦creators/inspire L:400 A:CRIA T:40/60,35/65,50/50 M:q2,c0.4 H:question PROOF:on
+
+# What this generates:
+# - 400-word casual thread
+# - Question hook (engaging opening)
+# - Very accessible tone (60% accessible)
+# - Story-heavy (65% story, 35% data)
+# - Balanced action/inspiration
+# - 2 pull quotes
+# - Mild controversy (0.4 - friendly debate)
+
+# Customize:
+# - Replace 'AI_tools' with your topic
+# - Adjust L: to 300-500 for different thread lengths
+# - Increase M:c value for more spicy takes

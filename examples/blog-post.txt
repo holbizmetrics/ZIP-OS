@@ -1,0 +1,22 @@
+# Long-Form Blog Post
+# Audience: Varies by topic
+# Platform: Best on Claude (handles longer content well)
+# Use Case: Comprehensive articles, guides, deep dives
+
+Z! I:remote_work_strategy↦managers/implement L:1500 A:CRIA P:PAS+OpenLoop T:70/30,60/40,65/35 M:q5,viz,c0.5 H:story V:flowchart:Implementation-Steps PROOF:on
+
+# What this generates:
+# - 1500-word comprehensive article
+# - Story hook (narrative opening)
+# - Authoritative tone (70% authority)
+# - Data-focused (60% data, 40% story)
+# - Action-oriented (65% action)
+# - 5 pull quotes
+# - Flowchart visualization
+# - Medium controversy (0.5 - balanced perspective)
+
+# Customize:
+# - Adjust L: to 1000-2500 for different depths
+# - Use P:PAS for problem-solution structure
+# - Use P:TAS for dialectic/balanced arguments
+# - Combine patterns: P:PAS+TAS for hybrid approach

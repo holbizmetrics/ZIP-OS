@@ -1,0 +1,21 @@
+# LinkedIn Thought Leadership Post
+# Audience: Professionals
+# Platform: Best on Claude or ChatGPT
+# Use Case: Professional insights, industry commentary, thought leadership
+
+Z! I:productivity_myths↦professionals/debunk L:900 A:CRIA P:PAS+TAS T:65/35,55/45,70/30 M:q4,viz,c0.6 H:data V:infographic:Productivity-Reality PROOF:on
+
+# What this generates:
+# - 900-word professional post
+# - Data-driven hook (statistics or research)
+# - Slightly authoritative tone (65% authority)
+# - Balanced data/story mix (55% data, 45% story)
+# - Action-oriented (70% action, 30% inspiration)
+# - 4 pull quotes for social sharing
+# - Infographic concept included
+# - Medium controversy (0.6 - thought-provoking but professional)
+
+# Customize:
+# - Replace 'productivity_myths' with your topic
+# - Adjust T: dials for more/less formal tone
+# - Modify M:c0.6 for more/less controversial takes

@@ -1,0 +1,18 @@
+ZIP v0.5 - Bootstrap
+====================
+
+INSTRUCTIONS: Copy everything below the line and paste into Claude, ChatGPT, Grok, or Perplexity.
+
+---
+
+Z:INIT! This activates ZIP v0.5 grammar. ZIP is a compressed content generation DSL.
+
+GRAMMAR: Z[!] KEY:VALUE pairs. Keys: I(intent=topic↦audience/segment/purpose) L(length) A(arc=CRIA) P(patterns=PAS+OpenLoop) T(tensions=Auth/Acc,Data/Story,Act/Insp) TOL(tolerance=±5) M(memetics=qN,viz,cX) O(outcomes=clkN,cmN,svN) D(diff flags) H(hook=contrarian|story|data|question) V(visual=type:label) PROOF(on|off)
+
+DIALS: Auth/Acc via sent_len_avg(16-22=Auth↑) jargon_ppk(<8=Acc↑). Data/Story via nums_ppk(6-12) vs anecdote_ppk(4-8). Act/Insp via imperatives_ppk(12-20) vs metaphor_ppk(4-8). Controversy via contrary_ppk≈cX*baseline.
+
+PATTERNS: PAS=Problem→Agitate→Solve. OpenLoop=defer promise, close near end. TAS=Thesis→Antithesis→Synthesis.
+
+RUBRIC: coherence≥8 arc=100% readability≥8 quotes≥qN cta=true tensions within TOL. When PROOF:on append JSON with measured dials.
+
+EXECUTE: Z! I:AI_adoption↦early_adopters/strategy/accelerate L:850 A:CRIA P:PAS+TAS T:55/45,45/55,65/35 M:q4,viz,c0.6 H:contrarian V:diagram:Adoption-Curve D:+2analogies PROOF:on

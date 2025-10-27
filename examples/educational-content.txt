@@ -1,0 +1,23 @@
+# Educational Content
+# Audience: Beginners, students, learners
+# Platform: Works on all platforms
+# Use Case: Explainers, tutorials, introductions to complex topics
+
+Z! I:quantum_computing↦beginners/simplify L:700 A:CRIA P:PAS T:40/60,30/70,45/55 M:q3,viz,c0.3 H:question V:diagram:Quantum-vs-Classical PROOF:on
+
+# What this generates:
+# - 700-word accessible explanation
+# - Question hook (engaging curiosity)
+# - Very accessible (60% accessible)
+# - Story-heavy (70% story, 30% data)
+# - Balanced with slight inspiration (55% inspiration)
+# - 3 pull quotes (key concepts)
+# - Comparison diagram
+# - Low controversy (0.3 - educational, not debate)
+
+# Customize:
+# - Increase T:Story for more narrative-driven explanations
+# - Use H:story for case-study approach
+# - Keep M:c low (0.2-0.4) for educational content
+# - Use V:diagram for concept visualization
+# - Use V:infographic for data visualization

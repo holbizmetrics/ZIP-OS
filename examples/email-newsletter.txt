@@ -1,0 +1,21 @@
+# Email Newsletter
+# Audience: Subscribers, community members
+# Platform: Works on all platforms
+# Use Case: Weekly updates, curated content, community engagement
+
+Z! I:weekly_AI_updates↦subscribers/inform L:600 A:CRIA T:50/50,40/60,55/45 M:q3,c0.3 H:question PROOF:on
+
+# What this generates:
+# - 600-word email-friendly content
+# - Question hook
+# - Balanced tone (50/50 authority/accessibility)
+# - Story-leaning (60% story, 40% data)
+# - Slightly action-focused (55% action)
+# - 3 pull quotes
+# - Low controversy (0.3 - safe for broad audience)
+
+# Customize:
+# - Keep L: between 500-800 for optimal email length
+# - Lower M:c to 0.2 for very safe content
+# - Use H:data for news-focused newsletters
+# - Omit V: (visuals) for plain-text emails

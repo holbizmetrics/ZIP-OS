@@ -1,0 +1,29 @@
+# Sales/Landing Page Copy
+# Audience: Buyers, decision makers
+# Platform: Works on all platforms
+# Use Case: Landing pages, sales emails, product descriptions
+
+Z! I:SaaS_product↦buyers/convert L:500 A:CRIA P:PAS+OpenLoop T:55/45,45/55,80/20 M:q4,c0.5 H:contrarian PROOF:on
+
+# What this generates:
+# - 500-word concise sales copy
+# - Contrarian hook (breaks patterns)
+# - Slightly professional (55% authority)
+# - Slightly story-focused (55% story)
+# - VERY action-oriented (80% action - strong CTAs)
+# - 4 pull quotes (value propositions)
+# - Medium controversy (0.5 - memorable but not alienating)
+# - Problem-solution + curiosity gap structure
+
+# Customize:
+# - Keep L: between 400-600 for landing pages
+# - Increase T:Act to 85/15 for harder sell
+# - Use H:data for B2B/technical products
+# - Use H:story for consumer/emotional products
+# - Adjust M:c based on brand voice (0.3-0.7)
+# - Always use PROOF:on to verify CTA strength
+
+# Note:
+# - High T:Act (80/20) emphasizes calls-to-action
+# - P:OpenLoop creates curiosity gap
+# - P:PAS presents clear problem→solution

@@ -1,0 +1,28 @@
+# Contrarian Take (Spicy Content)
+# Audience: Founders, innovators, thought leaders
+# Platform: Grok excels at edgy content
+# Use Case: Hot takes, challenging conventional wisdom, polarizing opinions
+
+Z! I:startup_advice↦founders/reconsider L:800 A:CRIA P:TAS T:60/40,50/50,70/30 M:q4,viz,c0.8 H:contrarian V:diagram:Alternative-Path D:+contrarian PROOF:on
+
+# What this generates:
+# - 800-word provocative article
+# - Contrarian hook (challenges beliefs)
+# - Professional but edgy (60% authority)
+# - Balanced data/story (50/50)
+# - Action-heavy (70% action)
+# - 4 pull quotes (shareable hot takes)
+# - HIGH controversy (0.8 - very spicy!)
+# - Extra contrarian modifier
+# - Alternative path diagram
+
+# WARNING:
+# - c0.8 is VERY controversial
+# - May polarize audience
+# - Use for established platforms with engaged communities
+# - Not recommended for corporate/conservative audiences
+
+# Customize:
+# - Lower M:c to 0.6-0.7 for medium spicy
+# - Remove D:+contrarian for standard controversial tone
+# - Use P:PAS+TAS for more structured argument
